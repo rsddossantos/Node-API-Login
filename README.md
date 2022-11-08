@@ -1,11 +1,13 @@
 # Api NodeJs com TypeScript
 ### Para testes de Login/Register/List com autenticação JWT e upload de imagens
+<hr>
 
-<code>npm install</code><br/>
-<code>npm run start-dev</code><br><br>
+### Instalação
 
+- <code>npm install</code>
 - Criar uma base em Postgres com uma tabela de usuários, conforme /models/User.ts
-- Criar o arquivo .env a partir de .env-example e configurar de acordo com suas variáveis
+- Criar o arquivo <b>.env</b> a partir de <b>.env-example</b> e configurar de acordo com suas variáveis.
+- <code>npm run start-dev</code>
 
 ### Rotas
     
